@@ -20,7 +20,6 @@
 
 --
 
-![Results Screenshot](Results.png)  
 
 ---
 
