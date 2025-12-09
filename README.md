@@ -119,6 +119,4 @@ cv-ai-analyzer/
 
 MIT License © 2025
 
-```
-
 ---
